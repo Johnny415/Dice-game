@@ -31,3 +31,8 @@ The rules of the game are:
     <li>Clone repository on your local computer</li>
     <li>Open index.html in web browser</li>
 </ul>
+
+Or you can simply click on following link an try it out:
+<a href ="dice-game-johnny415.vercel.app">Click here to play</a>
+
+Have fun playing🎲🎲🎲
