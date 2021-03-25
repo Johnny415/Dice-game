@@ -33,6 +33,6 @@ The rules of the game are:
 </ul>
 
 Or you can simply click on following link an try it out:
-<a href ="dice-game-johnny415.vercel.app">Click here to play</a>
+<a href ="dice-game-johnny415.vercel.app"> Click here to play!!</a>
 
 Have fun playing🎲🎲🎲
