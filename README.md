@@ -30,9 +30,7 @@ The rules of the game are:
     <li>Download and install web browser</li>
     <li>Clone repository on your local computer</li>
     <li>Open index.html in web browser</li>
-</ul>
-
-
+</ul><br>
 
 Or you can simply click on following link an try it out:<br>
 
